@@ -1,0 +1,8 @@
+Step 1
+Change the path of install.ps1 powershell script in the bypassbat.ps1 to the same path install.ps1 exists.(note-maintain them in the same folder)
+
+step 2:
+In install .ps1 
+Change the path of appx package file to the path where it exits to make it work.
+Change the sortcut2.targetpath to the path where reinstall.bat exists to create a link as a shortcut for reinstall
+

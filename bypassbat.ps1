@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Bypass -File C:\Users\$([Environment]::UserName)\Desktop\install.ps1 -force

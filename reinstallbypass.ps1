@@ -1,0 +1,1 @@
+PowerShell.exe -ExecutionPolicy Bypass -File C:\Users\$([Environment]::UserName)\Desktop\reinstall.ps1 -force
